@@ -1,7 +1,5 @@
 # 🚀 AWS Observability Stack
 
-This project demonstrates a complete DevOps pipeline for deploying a backend application on AWS EC2 with automated CI/CD, monitoring, and alerting.
-
 ## 🧱 Tech Stack
 
 - AWS EC2 (Ubuntu)
